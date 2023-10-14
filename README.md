@@ -1,1 +1,3 @@
-# site
+# site basico.dev!
+
+Esse foi o projeto onde aprendi a fazer sites básicos...
